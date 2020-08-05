@@ -1,0 +1,23 @@
+{
+  "name": "datastructures",
+  "version": "1.0.0",
+  "description": "My experiments with datastructures in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianferrao/DataStructures.git"
+  },
+  "author": "brianferrao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianferrao/DataStructures/issues"
+  },
+  "homepage": "https://github.com/brianferrao/DataStructures#readme",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}
